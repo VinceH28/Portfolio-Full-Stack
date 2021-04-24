@@ -1,0 +1,17 @@
+  /*Page Background color*/
+  .background-color {
+    background-color: #0e0f0f17;
+    color: rgb(15, 15, 15, 0, 0);
+    width: 100%;
+  }
+
+/*Footer*/
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(85, 85, 85);
+    color: rgb(0, 0, 0, 0, 0);
+    text-align: center;
+  };
