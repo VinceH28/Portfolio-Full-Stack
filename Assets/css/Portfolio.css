@@ -1,3 +1,8 @@
-.jumbotron{
+#jumbotron{
   align-items: center;
+}
+
+#lead-author{
+  text-align: left;
+
 }
