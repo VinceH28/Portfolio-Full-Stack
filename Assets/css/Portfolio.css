@@ -2,7 +2,7 @@
   align-items: center;
 }
 
-#lead-author{
-  text-align: left;
-
+#about-me-image{
+  background-image: url(/Assets/Images/homepagepic.png);
+  background-repeat: no-repeat;
 }
